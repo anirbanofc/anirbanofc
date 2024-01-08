@@ -31,7 +31,7 @@
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://assets-v2.lottiefiles.com/a/6ae30608-1152-11ee-a832-8bf47b1739dd/KdwHDJSqNs.gif" alt="Github" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://yt3.ggpht.com/nvk6qIQ7Cn02wNSHx2xLqMG1wn0I8SuYukQXFJJ1KpBWxOKJec7n1Gxvtld21FrUqZhJQFBJousb1oE=s472-c-fcrop64=1,02220000fdddffff-nd-v1-rwa" alt="java" width="40" height="40"/> </a> 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anirbanofc&show_icons=true&locale=en&layout=compact" alt="anirbanofc" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anirbanofc&show_icons=true&locale=en" alt="anirbanofc" /></p>
 
